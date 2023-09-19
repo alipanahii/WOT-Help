@@ -1,2 +1,3 @@
 # WOT-Help
-you can see all of equipment you need use for your tanks
+The list of equipments are archive from the site skill4ltu.eu , This program is only for offline use.when the site skill4ltu.eu is not available, you can use this list. 
+
